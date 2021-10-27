@@ -23,6 +23,6 @@ A responsive translation flutter application
 
 ## Preview App
 
-<div><img src="https://Mouhcine-Flutter.github.io/images/flutter_translator.gif" style="width=200; height=300;"></div>
+<div><img src="https://Mouhcine-Flutter.github.io/images/flutter_translator.gif" style="width=250;"></div>
 
 
