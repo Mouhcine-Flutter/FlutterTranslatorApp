@@ -1,0 +1,18 @@
+const LANGUAGE_DATA = [
+  "🇬🇧 English UK",
+  "🇫🇷 French",
+  "🇺🇸 English US",
+  "🇸🇦 Arabic",
+  "🇩🇪 Dutch",
+  "🇮🇹 Italian",
+  "🇪🇸 Spanish",
+  "🇮🇳 Hindi",
+  "🇨🇳 Chinese",
+  "🇯🇵 Japanese",
+  "🇰🇷 Korean",
+  "🇷🇺 Russian",
+  "🇵🇹 Portuguese",
+  "🇨🇿 Czech",
+  "🇹🇷 Turkish",
+  "🇮🇩 Indonesian",
+];
